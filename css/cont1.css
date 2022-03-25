@@ -1,0 +1,37 @@
+.cont1{
+    background-color: aliceblue;
+    width:500px;
+    height:650px;
+}
+.co1form{
+    position: relative;
+    padding:130px;
+}
+.laib{
+    position: relative;
+    display: block;
+    margin-top: 40px;
+    text-transform: uppercase;
+}
+.put{
+    position: relative;
+    border-style: none;
+    border-bottom: 2px solid black;
+}
+.contbu{
+    margin-top: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 15px;
+    color: aliceblue;
+    background-color: rgb(129, 43, 209);
+}
+.contbu:hover{
+    background-color: rgb(79, 25, 129);
+}
+.cont1p{
+    text-transform: uppercase;
+    position: absolute;
+    bottom: 133px;
+    left:270px;
+}
